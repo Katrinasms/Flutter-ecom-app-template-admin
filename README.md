@@ -1,13 +1,22 @@
+
+## Screenshots
+
+![DisplayImage](./assets/01.png)
+
+Below is the gif of the application:
+
+<p align="center">
+  <img src="./assets/02.gif" alt="Sublime's custom image"/>
+</p>
+<!-- ![DisplayImage](./assets/02.gif) -->
+
+
+
 # seller_shop
 
 This is a simple ecommence template using Flutter.(The Admin App).
 This application contained user authorization (login/logout/register), using image_picker, using cloudinary_public to allow upload photo. Please feel free to take reference. 
 
-
-## Screenshots
-
-![DisplayImage](./assets/02.gif)
-![DisplayImage](./assets/01.png)
 
 
 ## Getting Started
