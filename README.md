@@ -1,7 +1,8 @@
 
-# seller_shop
+# Admin_shop
 
-This is a simple ecommence template using Flutter.(The Admin App).
+This is a simple ecommence template using Flutter.(The Admin App). This allow admin to register and upload their product.
+
 This application contained user authorization (login/logout/register), using image_picker, using cloudinary_public to allow upload photo. Please feel free to take reference. 
 
 ## Screenshots
