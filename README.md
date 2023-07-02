@@ -1,4 +1,9 @@
 
+# seller_shop
+
+This is a simple ecommence template using Flutter.(The Admin App).
+This application contained user authorization (login/logout/register), using image_picker, using cloudinary_public to allow upload photo. Please feel free to take reference. 
+
 ## Screenshots
 
 ![DisplayImage](./assets/01.png)
@@ -12,10 +17,6 @@ Below is the gif of the application:
 
 
 
-# seller_shop
-
-This is a simple ecommence template using Flutter.(The Admin App).
-This application contained user authorization (login/logout/register), using image_picker, using cloudinary_public to allow upload photo. Please feel free to take reference. 
 
 
 
