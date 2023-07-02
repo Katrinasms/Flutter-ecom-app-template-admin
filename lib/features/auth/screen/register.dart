@@ -55,13 +55,16 @@ class _RegisterState extends State<Register> {
         child: Column(
           children: [
             const Padding(
-              padding: EdgeInsets.only(top: 150.0, bottom: 50),
+              padding: EdgeInsets.only(top: 150.0),
               child: Center(
                 child: Text('Register', style: TextStyle(fontSize: 60.0)),
               ),
             ),
+            Center(
+              child: Text('Admin', style: TextStyle(fontSize: 25.0)),
+            ),
             Container(
-              padding: EdgeInsets.only(left: 40.0, right: 40.0),
+              padding: EdgeInsets.only(top: 30, left: 40.0, right: 40.0),
               child: Form(
                   key: _form,
                   child: SingleChildScrollView(

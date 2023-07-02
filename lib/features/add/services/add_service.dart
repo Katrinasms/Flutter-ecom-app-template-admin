@@ -65,6 +65,7 @@ class AdminServices {
     required String description,
     required double price,
     required String id,
+    required String image,
   }) async {
     final userProvider = Provider.of<UserProvider>(context, listen: false);
 
@@ -76,7 +77,7 @@ class AdminServices {
           description: description,
           provider: userProvider.user.name,
           quantity: 1,
-          image: 'https://picsum.photos/250?image=9',
+          image: image,
           price: price,
           id: id);
       print(product.provider);

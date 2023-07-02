@@ -45,6 +45,7 @@ class _AddState extends State<Add> {
         description: descriptionController.text,
         price: double.parse(priceController.text),
         id: id,
+        image: image,
       );
     }
   }
